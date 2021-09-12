@@ -1,0 +1,19 @@
+.header-container{
+    background-color: #f7f7f7;
+
+}
+
+.nav-top{
+    border-top: 3px solid orangered;
+    padding-top:"2px";
+
+}
+
+.nav-logo{
+    width:200px;
+    height:80px;
+}
+
+.middle-navbar{
+    
+}
